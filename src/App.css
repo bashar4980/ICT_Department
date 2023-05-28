@@ -1,0 +1,18 @@
+.navbar_drop{
+  margin-left: auto!important;
+}
+
+.banner img{
+  height: 70vh!important;
+}
+.name{
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: 18px;
+}
+.message_text{
+  text-align: justify;
+  font-size: 16px;
+  margin-top: 15px;
+  
+}
